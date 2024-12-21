@@ -1,0 +1,5 @@
+/.venv
+/emotions_dataset
+/wandb
+sentiment-images-classifier.zip
+*.whl
