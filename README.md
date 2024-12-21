@@ -1,5 +1,5 @@
 # Convomo
-
+![Convomo Logo](images/logo.png)
 A deep learning project for sentiment image classification using CNN architecture.
 
 ## Overview
