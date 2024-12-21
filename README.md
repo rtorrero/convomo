@@ -1,5 +1,5 @@
 # Convomo
-![Convomo Logo](convomo.png)
+![Convomo Logo](images/convomo.png)
 A deep learning project for sentiment image classification using CNN architecture.
 
 ## Overview
@@ -28,4 +28,5 @@ There are two notebooks in this project:
  - train.ipynb: This notebook trains the CNN model using the preprocessed dataset.
 
  ## Results
+ ![Training stats](images/train.png)
  [wandb training graphs](https://wandb.ai/rtorreromarijnissen-university-of-las-palmas-de-gran-canaria/convomo/reports/Training-for-convomo-https-github-com-rtorrero-convomo---VmlldzoxMDY4ODcxNg#validation-accuracy,-validation-loss-and-training-loss)
