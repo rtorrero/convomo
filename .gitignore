@@ -1,5 +1,6 @@
 /.venv
 /emotions_dataset
 /wandb
+/.vscode
 sentiment-images-classifier.zip
 *.whl
