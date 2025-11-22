@@ -1,4 +1,4 @@
-# Convomo
+# Convomo (Part my [SIANI](https://siani.ulpgc.es/) master studies)
 ![Convomo Logo](images/convomo.png)
 A deep learning project for sentiment image classification using CNN architecture.
 
